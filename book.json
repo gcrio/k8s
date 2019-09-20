@@ -1,7 +1,7 @@
 {
-    "title": "Kubernetes 实践指南",
-    "description": "Kubernetes 实践指南",
-    "language": "zh-hans",
+    "title": "Kubernetes Practice Guide",
+    "description": "Kubernetes Pracice Guide",
+    "language": "en",
     "author": "roc",
     "gitbook": ">= 3.2.2",
     "links": {
@@ -30,7 +30,7 @@
         },
         "editlink": {
             "base": "https://github.com/imroc/kubernetes-practice-guide/blob/master",
-            "label": "编辑本页"
+            "label": "Edit This Page"
         },
         "tbfed-pagefooter": {
           "copyright":"&copy roc",

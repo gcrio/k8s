@@ -1,10 +1,10 @@
-# Kubernetes 实践指南
+# Kubernetes Practice Guide
 
-本书包含大量kubernetes实践，涵盖许多问题排查与最佳实践，欢迎大家一起来补充完善。
+This book provides a lot of Kubernetes practice. Welcome everyone to improve this book.
 
-## 免责声明
+## Disclaimer
 
-通常文章会先用中文起草并更新，等待其内容较为成熟完善，更新不再频繁的时候才会翻译成英文，点击左上角 "全球" 图标切换语言。
+Usually the article will be drafted and updated with Chinese, waiting for its content to be more mature and perfect, update no longer frequent when it will be translated into English, click on the upper left corner of the "Globe" icon to switch language.
 
 ## LICENSE
 
